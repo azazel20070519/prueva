@@ -11,33 +11,33 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para GataBot-MD | Add the numbers to be Owner for GataBot-MD ⋅.━━━━ ⊰  
 
 global.owner = [
-["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["573026191480", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 𝙂𝘽 💖🐈', true], 
-["5492266466080"], 
-["593968585383"], 
-["5492266613038"],
-["51948705559"],
-["51948273587"],
-["51982233590"],
-["51906662557"],
-["5217294888993"]]
+["50369907657", '𝙊𝙬𝙣𝙚𝙧 ', true],♛𝗥𝗘𝗬𝗘𝗦♛
+["50369907657", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 ', true], 
+["50369907657"], 
+["50369907657"], 
+["50369907657"],
+["50369907657"],
+["50369907657"],
+["50369907657"],
+["50369907657"],
+["50369907657"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +50369907657
 global.confirmCode = ""
 
-global.mods = []
+global.mods = ["50369907657"]
 global.prems = ["528451003894"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
+//Agrega el Idioma que quieres que tenga BOT-C.D.R
+//Add the language you want BOT-C.D.R to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
@@ -58,7 +58,7 @@ global.keysxteammm = ["29d4b59a4aa687ca", "5LTV57azwaid7dXfz5fzJu", "cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ["5VC9rvNx", "cfALv5"]
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = "GataDios"
+global.lolkeysapi = "REYES"
 global.itsrose = ["4b146102c4d500809da9d1ff"]
 global.baileys = "@whiskeysockets/baileys"
 
@@ -91,7 +91,7 @@ global.APIKeys = {
   'https://api-xcoders.site': 'Frieren'
 };
 
-global.mods = []
+global.mods = ["50369907657"]
 
 
 /*************************/
@@ -104,47 +104,42 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["18059196237", 'Gata Dios 💻', 1], 
-["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["59894808483", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5491173694367", 'Soporte', 1]]
-
-global.mail = '' //agrega tú correo
+["50369907657", '♛𝗥𝗘𝗬𝗘𝗦♛ ', 1]], 
+global.mail = "azazel20070519@gmail.com
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = "EL SALVADOR"
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = "𝑩𝑶𝑻-𝑪.𝑫.𝑹"
+global.author = "♛𝗥𝗘𝗬𝗘𝗦♛"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
-global.yt = "https://youtube.com/@gatadios"
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
-global.ig = "https://www.instagram.com/gata_dios"
-global.md = "https://github.com/GataNina-Li/GataBot-MD"
-global.fb = "https://www.facebook.com/groups/872989990425789/"
+global.gt = "𝑩𝑶𝑻-𝑪.𝑫.𝑹"
+global.yt = ""
+global.yt2 = ""
+global.ig = ""
+global.md = "https://github.com/MESIASREYES/BOT-C.D.R"
+global.fb = ""
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //CANAL UPDATE
-global.nn2 = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g' //Canal GataBot
-global.nna2 = 'https://chat.whatsapp.com/JRFOdyjNqhwEJcDQoBCHzL' //Help
-global.nn = 'https://chat.whatsapp.com/HBIIrHorHbW2LIxlS9MjRI' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/CtA2nopOZor0bRwV3FCYH3' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/HVLk7c3ZlNN0mJjodw4NkV' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/BSDrNVhj2lVElUgrNnGoby' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/CciFSHhsYxd9TqW2tZhhZx' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/Ej5AUrpmYnJKYtEa6YMwK6'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/I9DsG6ABKer27NbW01Nl39' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/BngbJC3aBVhF5KjoaawiT1' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/KQtWZDVfosTKbheIlndLBN' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/50660400020' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nn2 = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nna2 = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nn = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnn = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnnt = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnntt = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnnttt = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnnttt1 = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn'; //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnnttt2 = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnnttt3 = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnnttt4 = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.nnnttt5 = 'https://chat.whatsapp.com/DX4KAYmJxRoHWdAUPJX5Dn' //𝑩𝑶𝑻-𝑪.𝑫.𝑹
+global.paypal = 'https://www.paypal.me/MESIASREYES'
+global.asistencia = 'Wa.me/50369907657' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -178,13 +173,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.wm = "𝑩𝑶𝑻-𝑪.𝑫.𝑹"
+global.igfg = "𝑩𝑶𝑻-𝑪.𝑫.𝑹"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "593993684821"
+global.nomorown = "50369907657"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -474,7 +469,7 @@ global.rpgshopp = { //Tienda
     let emotttt = {
       exp: '⚡', limit: '💎', diamond: '💎+', joincount: '🪙',
       emerald: '💚', berlian: '♦️', kyubi: '🌀', gold: '👑',
-      money: '🐱', tiketcoin: '🎫', stamina: '✨',
+      money: '🥷🏻', tiketcoin: '🎫', stamina: '✨',
             
       potion: '🥤', aqua: '💧', trash: '🗑', wood: '🪵',
       rock: '🪨', batu: '🥌', string: '🕸️', iron: '⛓️',
