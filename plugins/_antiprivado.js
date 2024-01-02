@@ -22,7 +22,7 @@ mensaje = `*@${m.sender.split`@`[0]} YA SE MENCIONÓ QUE NO PUEDE ESCRIBIR AL PR
 await conn.reply(m.chat, mensaje, m, { mentions: [m.sender] }) 
   
 } else if (user.counterPrivate === 2) {
-mensaje = `*@${m.sender.split`@`[0]} SERÁ BLOQUEADO(A). 😾 SE MENCIONÓ ANTES QUE NO PODÍA ESCRIBIR AL PRIVADO.*\n\n⚠️ \`\`\`TERCERA ADVERTENCIA\`\`\` ⚠️`
+mensaje = `*@${m.sender.split`@`[0]} SERÁ BLOQUEADO(A). 🥷🏻 SE MENCIONÓ ANTES QUE NO PODÍA ESCRIBIR AL PRIVADO.*\n\n⚠️ \`\`\`TERCERA ADVERTENCIA\`\`\` ⚠️`
 await conn.reply(m.chat, mensaje, m, { mentions: [m.sender] }) 
   
 user.counterPrivate = -1
