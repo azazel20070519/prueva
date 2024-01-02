@@ -8,11 +8,11 @@ import axios from "axios"
 import moment from "moment-timezone"
 import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 
-//⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para GataBot-MD | Add the numbers to be Owner for GataBot-MD ⋅.━━━━ ⊰  
+//⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para BOT-C.D.R | Add the numbers to be Owner for BOT-C.D.R ⋅.━━━━ ⊰  
 
 global.owner = [
 ["50369907657", '𝙊𝙬𝙣𝙚𝙧 ', true],♛𝗥𝗘𝗬𝗘𝗦♛
-["50369907657", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 ', true], 
+["50369907657", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 ', true],
 ["50369907657"], 
 ["50369907657"], 
 ["50369907657"],
