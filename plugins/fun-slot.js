@@ -50,13 +50,13 @@ if (c == emojis.length) c = 0;
 }
 let end;
 if (a == b && b == c) {
-end = `✨ *QUE PRO!! HAS GANADO +${apuesta + apuesta} EXP*\n\n🥳 *COOL!! YOU JUST WON +${apuesta + apuesta} EXP*`
+end = `✨ *QUE PRO!! HAS GANADO +${apuesta + apuesta} EXP*\n\n♛ *COOL!! YOU JUST WON +${apuesta + apuesta} EXP*`
 users.exp += apuesta
 } else if (a == b || a == c || b == c) {
-end = `🙀 *CASI!!, VUELVA A INTENTAR*\n*BONO DE +50 EXP*\n\n😯 *ALMOST!!, TRY AGAIN*\n*BONDS OF +50 EXP*`
+end = `♛ *CASI!!, VUELVA A INTENTAR*\n*BONO DE +50 EXP*\n\n♛ *ALMOST!!, TRY AGAIN*\n*BONDS OF +50 EXP*`
 users.exp += 50
 } else {
-end = `😿 *HA PERDIDO!! ❌ -${apuesta} EXP*\n\n*HAS LOST!! ❌ -${apuesta} EXP*`
+end = `♛ *HA PERDIDO!! ❌ -${apuesta} EXP*\n\n*HAS LOST!! ❌ -${apuesta} EXP*`
 users.exp -= apuesta
 }
 //users.lastslot = new Date * 1
@@ -111,13 +111,13 @@ if (c == emojis.length) c = 0;
 }
 let end;
 if (a == b && b == c) {
-end = `✨ *QUE PRO!! HAS GANADO +${apuesta + apuesta} GataCoins*\n\n🥳 *COOL!! YOU JUST WON +${apuesta + apuesta} GataCoins*`
+end = `✨ *QUE PRO!! HAS GANADO +${apuesta + apuesta} GataCoins*\n\n♛ *COOL!! YOU JUST WON +${apuesta + apuesta} GataCoins*`
 users.money += apuesta
 } else if (a == b || a == c || b == c) {
-end = `🙀 *CASI!!, VUELVA A INTENTAR*\n*BONO DE +30 GataCoins*\n\n😯 *ALMOST!!, TRY AGAIN*\n*BONDS OF +30 GataCoins*`
+end = `♛ *CASI!!, VUELVA A INTENTAR*\n*BONO DE +30 GataCoins*\n\n♛ *ALMOST!!, TRY AGAIN*\n*BONDS OF +30 GataCoins*`
 users.money += 30
 } else {
-end = `😿 *HA PERDIDO!! ❌ -${apuesta} GataCoins*\n\n*HAS LOST!! ❌ -${apuesta} GataCoins*`
+end = `♛ *HA PERDIDO!! ❌ -${apuesta} GataCoins*\n\n*HAS LOST!! ❌ -${apuesta} GataCoins*`
 users.money -= apuesta
 }
 //users.lastslot = new Date * 1
