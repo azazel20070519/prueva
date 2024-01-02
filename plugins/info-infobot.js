@@ -60,7 +60,7 @@ let info = `╭━━━━[ ${gt} ]━━━━━⬣
 ┃ღ *♛𝗥𝗘𝗬𝗘𝗦♛*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
-┃ღ *${owner}*
+┃ღ *${asistencia}*`
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃𓃠 *VERSIÓN ACTUAL | VERSION*
 ┃ღ ${vs}
@@ -104,7 +104,7 @@ await conn.sendFile(m.chat, pp, 'gata.mp4', info, fkontak)
 ┃ღ *♛𝗥𝗘𝗬𝗘𝗦♛*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
-┃ღ *${owner}*
+┃ღ *${asistencia}*`
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃𓃠 *VERSIÓN ACTUAL | VERSION*
 ┃ღ ${vs}
