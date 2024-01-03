@@ -607,7 +607,7 @@ ${readMore}
 ║✞║⊳ _${usedPrefix}comunicargrupos *texto*_
 ║✞║⊳ _${usedPrefix}borrartmp | cleartmp_
 ║✞║⊳ _${usedPrefix}delexp *@tag*_
-║✞║⊳ _${usedPrefix}delcoins *@tag*_
+║✞║⊳ _${usedPrefix}deldinero *@tag*_
 ║✞║⊳ _${usedPrefix}deldiamantes *@tag*_
 ║✞║⊳ _${usedPrefix}reiniciar | restart_
 ║✞║⊳ _${usedPrefix}ctualizar | update_
@@ -616,7 +616,7 @@ ${readMore}
 ║✞║⊳ _${usedPrefix}listapremium | listprem_
 ║✞║⊳ _${usedPrefix}añadirdiamantes *@tag cantidad*_
 ║✞║⊳ _${usedPrefix}añadirxp *@tag cantidad*_
-║✞║⊳ _${usedPrefix}añadircoins *@tag cantidad*_
+║✞║⊳ _${usedPrefix}añadirdinero *@tag cantidad*_
 ║✞║⊳
 ║✞║⊳𝑩𝑶𝑻-𝑪.𝑫.𝑹
 ║✞║⊳
