@@ -16,14 +16,14 @@ if (money < 1) throw `${mg}𝙀𝙇 𝙉𝙐𝙈𝙀𝙍𝙊 𝙈𝙄𝙉𝙄�
 let users = global.db.data.users
 //let users = global.db.data.users[who]
 users[who].money += gatacoins
-m.reply(`╭━━━[ 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 🐈 ]━━━⬣\n┃\n┃ღ *PARA | FOR:*\n┃ღ ${text}\n┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┃ღ *SE LE AÑADIÓ | NOW YOU HAVE*\n┃ღ *${gatacoins} GataCoin(s)* 🐈\n┃\n╰━━━━━━━━━━━━━━⬣\n\n${wm}`)}
-/*conn.sendHydrated(m.chat, `╭━━━[ 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 🐈 ]━━━⬣\n┃\n┃ღ *PARA | FOR:*\n┃ღ *${text}*\n┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┃ღ *SE LE AÑADIÓ | NOW YOU HAVE*\n┃ღ *${gatacoins} GataCoin(s)* 🐈\n┃\n╰━━━━━━━━━━━━━━⬣`, wm, null, md, '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
+m.reply(`╭━━━[ 𝘿𝙄𝙉𝙀𝙍𝙊 💵 ]━━━⬣\n┃\n┃ღ *PARA | FOR:*\n┃ღ ${text}\n┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┃ღ *SE LE AÑADIÓ | NOW YOU HAVE*\n┃ღ *${gatacoins} Dinero(s)* 💵\n┃\n╰━━━━━━━━━━━━━━⬣\n\n${wm}`)}
+/*conn.sendHydrated(m.chat, `╭━━━[ 𝘿𝙄𝙉𝙀𝙍𝙊 💵 ]━━━⬣\n┃\n┃ღ *PARA | FOR:*\n┃ღ *${text}*\n┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┃ღ *SE LE AÑADIÓ | NOW YOU HAVE*\n┃ღ *${gatacoins} Dinero(s)* 💵\n┃\n╰━━━━━━━━━━━━━━⬣`, wm, null, md, '𝑩𝑶𝑻-𝑪.𝑫.𝑹', null, null, [
 ['💗 𝙈𝙚𝙣𝙪 𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖 | 𝙍𝙋𝙂 💗', '.rpgmenu'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']], m)
 }*/
 handler.help = ['addgb <@user>']
 handler.tags = ['gatacoins']
-handler.command = ['añadirgatacoins', 'añadirgata', 'añadircoins', 'dargatacoins', 'dargata', 'darcoins'] 
+handler.command = ['añadirgatacoins', 'añadirgata', 'añadircoins', 'dargatacoins', 'dargata', 'dardinero'] 
 handler.group = true
 handler.rowner = true
 export default handler
