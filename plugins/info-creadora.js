@@ -5,7 +5,7 @@ const cat = `𝑩𝑶𝑻-𝑪.𝑫.𝑹
 *Wa.me/50369907657*
 *---------------------*
 
-*CENTER GATABOT*
+*CENTER BOT-C.D.R*
 *azazel20070519@gmail.com*
 
 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
@@ -44,7 +44,7 @@ let teksbio = `𝑩𝑶𝑻-𝑪.𝑫.𝑹
 *Wa.me/50369907657*
 *---------------------*
 	
-*CENTER 𝑩𝑶𝑻-𝑪.𝑫.𝑹*
+*CENTER BOT-C.D.R*
 *azazel20070519@gmail,com*
 
 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
@@ -88,7 +88,7 @@ const listMessage = {
         switch (type) {
           case 'nombre':
           await conn.reply(m.chat, `𝙉𝙊𝙈𝘽𝙍𝙀 𝘿𝙀𝙇 𝘽𝙊𝙏 : ${gt} 🥷🏻`, fkontak, m)
-         // conn.reply(m.chat, "Nombre del bot : GataBot-MD 🥷🏻", m, { contextInfo: { mentionedJid: [nowner] }})
+         // conn.reply(m.chat, "Nombre del bot : BOT-C.D.R 🥷🏻", m, { contextInfo: { mentionedJid: [nowner] }})
             break
             case 'bio':
              await conn.sendFile(m.chat, gataImg.getRandom(), 'gata.jpg', teksbio, fkontak)
